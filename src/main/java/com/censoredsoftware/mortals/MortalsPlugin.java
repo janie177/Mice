@@ -3,9 +3,9 @@ package com.censoredsoftware.errornoise;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
- * The JavaPlugin class for ErrorNoise.
+ * The JavaPlugin class for Mortals.
  */
-public class ErrorNoisePlugin extends JavaPlugin
+public class MortalsPlugin extends JavaPlugin
 {
 	/**
 	 * The Bukkit enable method.
