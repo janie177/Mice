@@ -1,0 +1,4 @@
+name: Mortals
+main: com.censoredsoftware.mortals.MortalsPlugin
+version: ${project.version}
+authors: [_Alex, HmmmQuestionMark]
