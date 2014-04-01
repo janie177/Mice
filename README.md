@@ -1,4 +1,4 @@
 Mortals
 =======
 
-Demigods was too boring, so lets just act normal.
+Finally play Minecraft the way it was meant to be played.
