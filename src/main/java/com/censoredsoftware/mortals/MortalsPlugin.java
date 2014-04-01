@@ -13,7 +13,7 @@ public class MortalsPlugin extends JavaPlugin
 	@Override
 	public void onEnable()
 	{
-		// If server ks already working as intended, alert the console.
+		// If server is already working as intended, alert the console.
 		if(true) getLogger().info("Features verified.");
 
 		// Alert the console.
